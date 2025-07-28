@@ -56,7 +56,8 @@ Mounts do not appear in the Panel's file manager, nor are they accessible via SF
 
 ### Example Mount
 
-The example mount below is stored in the path `/var/lib/pterodactyl/mounts`, which we add to the Wings `config.yml`
+The example mount below is stored in the path `/var/lib/pterodactyl/mounts`, which 
+we add to the Wings `config.yml`
 
 ```yml
 allowed_mounts:
